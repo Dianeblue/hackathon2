@@ -1,0 +1,61 @@
+body{
+  background-color: #d2e4f1;
+  font-family: arial;
+}
+
+h1{
+
+  font-family: fantasy;
+  font-weight:300, bolder;
+  text-align:center;
+
+  }
+
+  #nav {
+
+  font-size: 1.2em;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  }
+  #nav a {
+  color: #333333;
+  text-decoration: none;
+  padding: 0 50px
+  }
+  #nav a:hover {
+  color: #510203;
+  text-decoration: none;
+  }
+
+
+    .header {
+    font-family: fantasy;
+    font-size: 3em;
+    font-weight: 600;
+    color: #510203;
+    width: 100%;
+    padding: 20px;
+  }
+
+    .footer {
+    font-family: fantasy;
+    font-size: .8em;
+    font-weight: 400;
+    color: #510203;
+    width: 100%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    }
+
+    #container {
+      background-image: url(http://www.bomdecopo.com.br/uploads/posts/75e4cb_70530afefa2c4ac597c7198da59bd280.jpg);
+      background-repeat:no-repeat;
+      color: #bc4819;
+      width: 900px;
+      margin: 0 auto;
+      height: 590px;
+
+    }
